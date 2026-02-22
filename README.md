@@ -74,7 +74,3 @@ ecommerce/
 - Bash 4+
 - Maven 3.6+
 - Java 8+
-
-## restart-liquidaciones-script.sh
-
-Script para reiniciar servicios de liquidaciones.
